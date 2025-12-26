@@ -1,0 +1,22 @@
+Finviz Screener Results - daily-3up - 2025-12-26
+========================================
+
+Screening Criteria:
+- Daily 3% UP
+- Price > $30
+- Above 200 SMA
+- ATR 2
+- RVOL 2
+
+URL:
+https://finviz.com/screener.ashx?v=111&f=ind_stocksonly,sh_price_o30,sh_relvol_o2,ta_averagetruerange_o2,ta_change_u3,ta_sma200_pa&ft=4&o=-volume
+------------------------------------------------------------
+
++------+----------+--------------------------------+-----------+-----------------+-----------+--------------+--------+---------+----------+----------+
+|   No | Ticker   | Company                        | Sector    | Industry        | Country   | Market Cap   |    P/E |   Price | Change   | Volume   |
++======+==========+================================+===========+=================+===========+==============+========+=========+==========+==========+
+|    1 | AFJK     | Aimei Health Technology Co Ltd | Financial | Shell Companies | USA       | 330.57M      | 267.99 |      54 | 12.50%   | 60,018   |
++------+----------+--------------------------------+-----------+-----------------+-----------+--------------+--------+---------+----------+----------+
+
+Ticker Symbols:
+AFJK
